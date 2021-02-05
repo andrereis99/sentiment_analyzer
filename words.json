@@ -1,5 +1,9 @@
 {
-	"pt": {
-		"revoltado": { negative: 10, positive: 0 }	
-	}
+	"pt": [
+		{ "value": "revoltado", "negative": 10, "positive": 0 },
+		{ "value": "revoltada", "negative": 10, "positive": 0 },
+		{ "value": "admiro", "negative": 0, "positive": 10 },
+		{ "value": "ridículo", "negative": 10, "positive": 0 },
+		{ "value": "ridícula", "negative": 10, "positive": 0 }
+	]
 }
