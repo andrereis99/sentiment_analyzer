@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/André Reis/Downloads/json-20200518.jar">
+	<classpathentry kind="lib" path="C:/Users/André Reis/Desktop/sentiment_analyser/json-20200518.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
