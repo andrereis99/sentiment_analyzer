@@ -1,9 +1,23 @@
 {
-	"pt": [
-		{ "value": "revoltado", "negative": 10, "positive": 0 },
-		{ "value": "revoltada", "negative": 10, "positive": 0 },
-		{ "value": "admiro", "negative": 0, "positive": 10 },
-		{ "value": "ridículo", "negative": 10, "positive": 0 },
-		{ "value": "ridícula", "negative": 10, "positive": 0 }
-	]
+	"pt": {
+		"admiro": { "negative": 0, "positive": 10 },
+		"otimo": { "negative": 0, "positive": 10 },
+		"otima": { "negative": 0, "positive": 10 },
+		"bom": { "negative": 0, "positive": 10 },
+		"boa": { "negative": 0, "positive": 10 },
+		"bons": { "negative": 0, "positive": 10 },
+		"boas": { "negative": 0, "positive": 10 },
+		"perfeito": { "negative": 0, "positive": 10 },
+		"perfeita": { "negative": 0, "positive": 10 },
+		"perfeitos": { "negative": 0, "positive": 10 },
+		"perfeitas": { "negative": 0, "positive": 10 },
+		"excelente": { "negative": 0, "positive": 10 },
+		"excelentes": { "negative": 0, "positive": 10 },
+		"incrivel": { "negative": 0, "positive": 10 },
+		
+		"revoltado": { "negative": 10, "positive": 0 },
+		"revoltada": { "negative": 10, "positive": 0 },
+		"ridículo": { "negative": 10, "positive": 0 },
+		"ridícula": { "negative": 10, "positive": 0 }
+	}
 }
